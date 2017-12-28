@@ -20,3 +20,9 @@
 #page4 {
     height: 1000px;
 }
+
+#pageBorder {
+    height: 50px;
+    background-color: pink;
+}
+

@@ -99,6 +99,7 @@
     <Content Include="scripts\JavaScript.js" />
     <Content Include="styles\bootstrap.min.css" />
     <Content Include="styles\main.css" />
+    <Content Include="ToDo.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
